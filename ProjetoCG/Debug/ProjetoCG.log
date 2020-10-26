@@ -1,27 +1,27 @@
 ﻿  ProjetoCG.cpp
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(33,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(33,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,70): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,70): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(82,13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(83,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(100,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(171,40): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(171,24): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,66): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,50): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(247,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(248,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(249,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(250,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(254,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG\ProjetoCG.cpp(255,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  ProjetoCG.vcxproj -> C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\Debug\ProjetoCG.exe
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(33,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(33,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(34,55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,70): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,70): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(82,13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(83,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(100,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(171,40): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(171,24): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,66): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,50): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(186,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(247,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(248,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(249,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(250,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(254,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(255,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ProjetoCG.vcxproj -> C:\Users\Josphze\Desktop\ProjetoCG\Debug\ProjetoCG.exe
