@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ProjetoCG.cpp" />
+    <ClCompile Include="RgbImage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RgbImage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

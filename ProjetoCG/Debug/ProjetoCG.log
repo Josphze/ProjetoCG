@@ -1,6 +1,6 @@
 ﻿  ProjetoCG.cpp
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(35,55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(36,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(36,70): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(37,27): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(37,54): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(38,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Josphze\Desktop\ProjetoCG\ProjetoCG\ProjetoCG.cpp(38,69): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
   ProjetoCG.vcxproj -> C:\Users\Josphze\Desktop\ProjetoCG\Debug\ProjetoCG.exe
