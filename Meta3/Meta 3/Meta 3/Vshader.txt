@@ -1,0 +1,50 @@
+uniform vec3  Direcao;
+uniform float gouraud;
+
+varying vec3  vNormal;
+varying vec3  vertPos;
+
+float iAmb;
+float iDif;
+float iEsp;
+float iTot;
+
+float Ka = 0.2;
+float Kd = 0.4;
+float Ke = 0.4;
+
+void main(void) 
+{
+	if (gouraud == 0)
+	{
+		vec4 vertPos4 = gl_ModelViewMatrix * vec4(gl_Vertex.x , gl_Vertex.y, gl_Vertex.z, 1.0);
+		vertPos = vec3(vertPos4) / vertPos4.w;
+		vNormal = gl_Normal; 	
+		gl_FrontColor = gl_Color;
+		gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+	}
+
+	if (gouraud == 1)
+	{
+		vec4 vertPos4 = gl_ModelViewMatrix * vec4(gl_Vertex.x , gl_Vertex.y, gl_Vertex.z, 1.0);
+		vertPos = vec3(vertPos4) / vertPos4.w;
+		vNormal = gl_Normal; 
+		vec3 nNormal = normalize(vNormal);
+
+		// Ambiente
+		iAmb = 0.2;
+
+		// Difusa
+        iDif = max(dot(nNormal, Direcao), 0.0);
+        
+        // Especular
+        vec3 refletida = reflect(-Direcao, nNormal); 
+        vec3 Nobs = normalize(-vertPos);
+        iEsp = max(dot(refletida, Nobs), 0.0);
+
+        // Total
+        iTot = Ka * iAmb + Kd * iDif + Ke * iEsp;
+        gl_FrontColor = iTot * gl_Color;
+        gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+	}
+}

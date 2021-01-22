@@ -1,0 +1,6 @@
+﻿  Meta 3.cpp
+C:\Users\Josphze\Desktop\Meta3\Meta 3\Meta 3\Meta 3.cpp(135,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josphze\Desktop\Meta3\Meta 3\Meta 3\Meta 3.cpp(136,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josphze\Desktop\Meta3\Meta 3\Meta 3\Meta 3.cpp(149,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Josphze\Desktop\Meta3\Meta 3\Meta 3\Meta 3.cpp(57): warning C4715: 'readShaderFile': not all control paths return a value
+  Meta 3.vcxproj -> C:\Users\Josphze\Desktop\Meta3\Meta 3\Debug\Meta 3.exe
